@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">WordCounterApp</string>
+    <string name="app_name">Word Counter</string>
+    <string name="input_hint">Enter your text here</string>
+    <string name="count_button">Count</string>
+    <string name="result_label">Result: </string>
+    <string name="empty_warning">Please enter some text!</string>
+
+    <string-array name="spinner_options">
+        <item>Sentences</item>
+        <item>Words</item>
+        <item>Characters</item>
+        <item>Numbers</item>
+    </string-array>
+
 </resources>
